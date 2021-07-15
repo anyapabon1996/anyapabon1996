@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anyapabon1996
+- 👀 I’m interested in developing differents kind of algorithms, helping other to make it compile and together be better and keep learning.
+- 🌱 I am currently learning data processing system and old programming in my career, and I am in JAVA on my own.
+- 💞️ I’m looking to collaborate on differents project, correcting code in C and be part of a team. 
+- 📫 How to reach me: @anyapabon1996, or, if you wish, write to my email: ericsonpabon22@gmail.com
